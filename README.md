@@ -1,2 +1,2 @@
 Simon-says-game
-added from feature branch
+clone repo(feature)
